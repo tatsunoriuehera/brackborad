@@ -12,7 +12,7 @@ echo $comment;
 </head>
 <body>
 <h1>フォームデータの送信</h1>
-<form action = "http://61.115.113.199/pg/price_serch.php" method = "get">
+<form action = "your_site_address" method = "get">
 <input type = "text" name ="comment"/><br/>
 <input type ="submit" value ="送信"/>
 </form>
